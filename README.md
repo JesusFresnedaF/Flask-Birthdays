@@ -12,3 +12,8 @@ En post, recogemos los datos que nos manda el html según el form, y hacemos el 
 Esta es nuestra página web, aquí mostramos las fechas de cumpleaños en una tabla cuyos valores nos mandan desde app.py y también podemos insertar nuevos cumpleaños en nuestra base de datos.
 
 Finalmente, si ejecutamos nuestro programa con flask run, podremos ver el resultado de nuestra web.
+
+## Capturas de pantalla
+![](captura1.png)
+![](captura2.png)
+![](captura3.png)
